@@ -1,0 +1,5 @@
+owner: darkharasho
+repo: ArcBridge
+provider: github
+releaseType: draft
+updaterCacheDirName: arcbridge-updater
