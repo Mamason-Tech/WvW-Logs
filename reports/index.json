@@ -6,6 +6,40 @@
   },
   "entries": [
     {
+      "id": "20260310-175524-ytw8",
+      "title": "Angel Of Destiny O, Tc Home Base",
+      "commanders": [
+        "Angel Of Destiny O",
+        "Tc Home Base"
+      ],
+      "dateStart": "2026-03-10T22:55:24.000Z",
+      "dateEnd": "2026-03-11T02:42:47.000Z",
+      "dateLabel": "3/10/2026, 5:55:24 PM - 3/10/2026, 9:42:47 PM",
+      "url": "https://Mamason-Tech.github.io/WvW-Logs/?report=20260310-175524-ytw8",
+      "summary": {
+        "borderlandsPct": 0.7567567567567568,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 41,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 18,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 15,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 19,
+        "avgEnemySize": 13
+      }
+    },
+    {
       "id": "20260309-202501-7kui",
       "title": "Charrlie Rageblade, Drakarys Mistwalker",
       "commanders": [
