@@ -3,6 +3,39 @@
   "glassSurfaces": true,
   "entries": [
     {
+      "id": "20260426-200506-7lpl",
+      "title": "Slöpy",
+      "commanders": [
+        "Slöpy"
+      ],
+      "dateStart": "2026-04-27T01:05:06.000Z",
+      "dateEnd": "2026-04-27T02:30:19.000Z",
+      "dateLabel": "4/26/2026, 8:05:06 PM - 4/26/2026, 9:30:19 PM",
+      "url": "https://Mamason-Tech.github.io/WvW-Logs/?report=20260426-200506-7lpl",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 12,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 11,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 1,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 10,
+        "avgEnemySize": 24
+      }
+    },
+    {
       "id": "20260403-222534-i3sl",
       "title": "Twofirefries",
       "commanders": [
