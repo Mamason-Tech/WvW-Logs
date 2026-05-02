@@ -3,6 +3,44 @@
   "glassSurfaces": true,
   "entries": [
     {
+      "id": "20260430-224305-wm4j",
+      "title": "Penguinz Is Chilly",
+      "commanders": [
+        "Penguinz Is Chilly"
+      ],
+      "dateStart": "2026-05-01T03:43:05.000Z",
+      "dateEnd": "2026-05-01T04:23:59.000Z",
+      "dateLabel": "4/30/2026, 10:43:05 PM - 4/30/2026, 11:23:59 PM",
+      "url": "https://Mamason-Tech.github.io/WvW-Logs/?report=20260430-224305-wm4j",
+      "summary": {
+        "borderlandsPct": 0.42857142857142855,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 32,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 11,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 8,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 5,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 22,
+        "avgEnemySize": 30
+      }
+    },
+    {
       "id": "20260429-205721-mdsi",
       "title": "Mamasön",
       "commanders": [
