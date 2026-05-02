@@ -3,6 +3,29 @@
   "glassSurfaces": true,
   "entries": [
     {
+      "id": "20260501-220141-ftr9",
+      "title": "Mamasontwo",
+      "commanders": [
+        "Mamasontwo"
+      ],
+      "dateStart": "2026-05-02T03:01:41.000Z",
+      "dateEnd": "2026-05-02T04:00:23.000Z",
+      "dateLabel": "5/1/2026, 10:01:41 PM - 5/1/2026, 11:00:23 PM",
+      "url": "https://Mamason-Tech.github.io/WvW-Logs/?report=20260501-220141-ftr9",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 25,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 25,
+        "avgEnemySize": 29
+      }
+    },
+    {
       "id": "20260430-224305-wm4j",
       "title": "Penguinz Is Chilly",
       "commanders": [
