@@ -1,7 +1,41 @@
 {
   "colorPalette": "crimson-red",
   "glassSurfaces": true,
+  "glassmorphic": false,
   "entries": [
+    {
+      "id": "20260506-214244-r07j",
+      "title": "Mamasontwo",
+      "commanders": [
+        "Mamasontwo"
+      ],
+      "dateStart": "2026-05-07T02:42:44.000Z",
+      "dateEnd": "2026-05-07T03:37:46.000Z",
+      "dateLabel": "5/6/2026, 9:42:44 PM - 5/6/2026, 10:37:46 PM",
+      "url": "https://Mamason-Tech.github.io/WvW-Logs/?report=20260506-214244-r07j",
+      "summary": {
+        "borderlandsPct": 0.6666666666666666,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 22,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 12,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 2,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 14,
+        "avgEnemySize": 12
+      }
+    },
     {
       "id": "20260501-220141-ftr9",
       "title": "Mamasontwo",
