@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260519-215719-zwxw",
+      "title": "Slöpy",
+      "commanders": [
+        "Slöpy"
+      ],
+      "dateStart": "2026-05-20T02:57:19.000Z",
+      "dateEnd": "2026-05-20T03:36:59.000Z",
+      "dateLabel": "5/19/2026, 9:57:19 PM - 5/19/2026, 10:36:59 PM",
+      "url": "https://Mamason-Tech.github.io/WvW-Logs/?report=20260519-215719-zwxw",
+      "summary": {
+        "borderlandsPct": 0.5357142857142857,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 30,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 26,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 20,
+        "avgEnemySize": 28
+      }
+    },
+    {
       "id": "20260518-212201-7jx8",
       "title": "Mamasontwo",
       "commanders": [
