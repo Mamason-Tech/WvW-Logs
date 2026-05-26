@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260525-213237-wqyh",
+      "title": "Mamasontwo",
+      "commanders": [
+        "Mamasontwo"
+      ],
+      "dateStart": "2026-05-26T02:32:37.000Z",
+      "dateEnd": "2026-05-26T03:47:16.000Z",
+      "dateLabel": "5/25/2026, 9:32:37 PM - 5/25/2026, 10:47:16 PM",
+      "url": "https://Mamason-Tech.github.io/WvW-Logs/?report=20260525-213237-wqyh",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 16,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 15,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 10,
+        "avgEnemySize": 21
+      }
+    },
+    {
       "id": "20260520-215838-83u2",
       "title": "Mamasontwo",
       "commanders": [
