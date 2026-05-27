@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260526-201113-ky0t",
+      "title": "Shae Pell Shimmer",
+      "commanders": [
+        "Shae Pell Shimmer"
+      ],
+      "dateStart": "2026-05-27T01:11:13.000Z",
+      "dateEnd": "2026-05-27T02:16:51.000Z",
+      "dateLabel": "5/26/2026, 8:11:13 PM - 5/26/2026, 9:16:51 PM",
+      "url": "https://Mamason-Tech.github.io/WvW-Logs/?report=20260526-201113-ky0t",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 9,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 28,
+        "avgEnemySize": 24
+      }
+    },
+    {
       "id": "20260525-213237-wqyh",
       "title": "Mamasontwo",
       "commanders": [
