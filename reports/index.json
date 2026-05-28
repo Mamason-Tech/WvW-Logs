@@ -4,6 +4,35 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260527-212827-2zrr",
+      "title": "Mamasonthree, Mamasontwo",
+      "commanders": [
+        "Mamasonthree",
+        "Mamasontwo"
+      ],
+      "dateStart": "2026-05-28T02:28:27.000Z",
+      "dateEnd": "2026-05-28T03:40:44.000Z",
+      "dateLabel": "5/27/2026, 9:28:27 PM - 5/27/2026, 10:40:44 PM",
+      "url": "https://Mamason-Tech.github.io/WvW-Logs/?report=20260527-212827-2zrr",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 21,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 5,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 16,
+        "avgEnemySize": 16
+      }
+    },
+    {
       "id": "20260526-201113-ky0t",
       "title": "Shae Pell Shimmer",
       "commanders": [
