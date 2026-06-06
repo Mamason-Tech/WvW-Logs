@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260605-220724-p04w",
+      "title": "Its A Fake",
+      "commanders": [
+        "Its A Fake"
+      ],
+      "dateStart": "2026-06-06T03:07:24.000Z",
+      "dateEnd": "2026-06-06T03:52:19.000Z",
+      "dateLabel": "6/5/2026, 10:07:24 PM - 6/5/2026, 10:52:19 PM",
+      "url": "https://Mamason-Tech.github.io/WvW-Logs/?report=20260605-220724-p04w",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 35,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 14,
+        "avgEnemySize": 22
+      }
+    },
+    {
       "id": "20260527-212827-2zrr",
       "title": "Mamasonthree, Mamasontwo",
       "commanders": [
