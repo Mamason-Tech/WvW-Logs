@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260606-200219-2d4h",
+      "title": "Its A Fake",
+      "commanders": [
+        "Its A Fake"
+      ],
+      "dateStart": "2026-06-07T01:02:19.000Z",
+      "dateEnd": "2026-06-07T01:42:33.000Z",
+      "dateLabel": "6/6/2026, 8:02:19 PM - 6/6/2026, 8:42:33 PM",
+      "url": "https://Mamason-Tech.github.io/WvW-Logs/?report=20260606-200219-2d4h",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 19,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 3,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 17,
+        "avgEnemySize": 35
+      }
+    },
+    {
       "id": "20260605-220724-p04w",
       "title": "Its A Fake",
       "commanders": [
