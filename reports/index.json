@@ -4,6 +4,35 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260707-220127-vmf0",
+      "title": "Vikshoots, Xelloss Jushinkan",
+      "commanders": [
+        "Vikshoots",
+        "Xelloss Jushinkan"
+      ],
+      "dateStart": "2026-07-08T03:01:27.000Z",
+      "dateEnd": "2026-07-08T03:55:16.000Z",
+      "dateLabel": "7/7/2026, 10:01:27 PM - 7/7/2026, 10:55:16 PM",
+      "url": "https://Mamason-Tech.github.io/WvW-Logs/?report=20260707-220127-vmf0",
+      "summary": {
+        "borderlandsPct": 0.22641509433962265,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 41,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 12,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 12,
+        "avgEnemySize": 31
+      }
+    },
+    {
       "id": "20260606-200219-2d4h",
       "title": "Its A Fake",
       "commanders": [
