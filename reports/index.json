@@ -4,6 +4,39 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260730-213759-7j06",
+      "title": "Lumpia Humner",
+      "commanders": [
+        "Lumpia Humner"
+      ],
+      "dateStart": "2026-07-31T02:37:59.000Z",
+      "dateEnd": "2026-07-31T03:14:31.000Z",
+      "dateLabel": "7/30/2026, 9:37:59 PM - 7/30/2026, 10:14:31 PM",
+      "url": "https://Mamason-Tech.github.io/WvW-Logs/?report=20260730-213759-7j06",
+      "summary": {
+        "borderlandsPct": 0.2631578947368421,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 42,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 10,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 5,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 29,
+        "avgEnemySize": 31
+      }
+    },
+    {
       "id": "20260725-215226-6ltf",
       "title": "Mamasontwo",
       "commanders": [
