@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260801-214344-8mcq",
+      "title": "Casandra Hunmer",
+      "commanders": [
+        "Casandra Hunmer"
+      ],
+      "guild": {
+        "id": "1542485F-68C6-EC11-81A9-8FB5CFBE7766",
+        "name": "Rule Xero Gaming",
+        "tag": "RXG"
+      },
+      "dateStart": "2026-08-02T02:43:44.000Z",
+      "dateEnd": "2026-08-02T03:33:00.000Z",
+      "dateLabel": "8/1/2026, 9:43:44 PM - 8/1/2026, 10:33:00 PM",
+      "url": "https://Mamason-Tech.github.io/WvW-Logs/?report=20260801-214344-8mcq",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 33,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 36,
+        "avgEnemySize": 40
+      }
+    },
+    {
       "id": "20260730-213759-7j06",
       "title": "Lumpia Humner",
       "commanders": [
